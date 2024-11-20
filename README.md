@@ -17,7 +17,7 @@ Get real-time weather updates for any location with just a few clicks. Simple, s
 
 🎉 **App Interface**:
 
-![Weather App Screenshot](assets/weather-app-screenshot.png)  
+![weather-app](https://github.com/user-attachments/assets/fa827f0f-bb2a-4a29-a87d-db73c329a2a0)
 *Your go-to interface for accurate and visually appealing weather updates.*
 
 ---
